@@ -41,4 +41,12 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0151-reverse-words-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
