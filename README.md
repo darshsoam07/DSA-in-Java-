@@ -8,6 +8,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0724-find-pivot-index](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0835-image-overlap) |
 ## Bit Manipulation
 |  |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0836-rectangle-overlap) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
