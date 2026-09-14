@@ -1,57 +1,82 @@
-# DSA-in-Java-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0136-single-number](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0136-single-number) |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0349-intersection-of-two-arrays](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0349-intersection-of-two-arrays) |
-| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
-| [0724-find-pivot-index](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0724-find-pivot-index) |
-| [0835-image-overlap](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0835-image-overlap) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0136-single-number](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0136-single-number) |
-## Hash Table
-|  |
-| ------- |
-| [0349-intersection-of-two-arrays](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0349-intersection-of-two-arrays) |
-| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
-## Two Pointers
-|  |
-| ------- |
-| [0151-reverse-words-in-a-string](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0151-reverse-words-in-a-string) |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0349-intersection-of-two-arrays](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0349-intersection-of-two-arrays) |
-## Binary Search
-|  |
-| ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0349-intersection-of-two-arrays](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0349-intersection-of-two-arrays) |
-## Sorting
-|  |
-| ------- |
-| [0349-intersection-of-two-arrays](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0349-intersection-of-two-arrays) |
-## Matrix
-|  |
-| ------- |
-| [0835-image-overlap](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0835-image-overlap) |
-## String
-|  |
-| ------- |
-| [0151-reverse-words-in-a-string](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0151-reverse-words-in-a-string) |
-## Math
-|  |
-| ------- |
-| [0836-rectangle-overlap](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0836-rectangle-overlap) |
-## Geometry
-|  |
-| ------- |
-| [0836-rectangle-overlap](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0836-rectangle-overlap) |
-## Prefix Sum
-|  |
-| ------- |
-| [0724-find-pivot-index](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0724-find-pivot-index) |
-<!---LeetCode Topics End-->
+DSA in Java
+
+Show Image Show Image Show Image Show Image Show Image
+
+A personal collection of Data Structures & Algorithms problems solved in Java, primarily sourced from LeetCode. Each problem lives in its own folder with a working solution and a short write-up.
+
+📊 Progress
+Difficulty	Solved
+🟢 Easy	5
+🟡 Medium	3
+🔴 Hard	0
+Total	8
+📁 Repository Structure
+
+Every problem gets its own folder, named <leetcode-number>-<problem-slug>, containing the Java solution and a notes file:
+
+DSA-in-Java-/
+├── 0136-single-number/
+│   ├── 0136-single-number.java
+│   └── README.md
+├── 0151-reverse-words-in-a-string/
+│   ├── 0151-reverse-words-in-a-string.java
+│   └── README.md
+├── ...
+└── README.md
+📚 Problems by Topic
+Array
+Problem	Difficulty
+0136. Single Number	Easy
+0167. Two Sum II - Input Array Is Sorted	Medium
+0349. Intersection of Two Arrays	Easy
+0448. Find All Numbers Disappeared in an Array	Easy
+0724. Find Pivot Index	Easy
+0835. Image Overlap	Medium
+Two Pointers
+Problem	Difficulty
+0151. Reverse Words in a String	Medium
+0167. Two Sum II - Input Array Is Sorted	Medium
+0349. Intersection of Two Arrays	Easy
+Hash Table
+Problem	Difficulty
+0349. Intersection of Two Arrays	Easy
+0448. Find All Numbers Disappeared in an Array	Easy
+Binary Search
+Problem	Difficulty
+0167. Two Sum II - Input Array Is Sorted	Medium
+0349. Intersection of Two Arrays	Easy
+Bit Manipulation
+Problem	Difficulty
+0136. Single Number	Easy
+Sorting
+Problem	Difficulty
+0349. Intersection of Two Arrays	Easy
+Matrix
+Problem	Difficulty
+0835. Image Overlap	Medium
+String
+Problem	Difficulty
+0151. Reverse Words in a String	Medium
+Math
+Problem	Difficulty
+0836. Rectangle Overlap	Easy
+Geometry
+Problem	Difficulty
+0836. Rectangle Overlap	Easy
+Prefix Sum
+Problem	Difficulty
+0724. Find Pivot Index	Easy
+🚀 Running a Solution
+
+Each solution is a self-contained .java file. To compile and run one locally:
+
+bash
+cd 0136-single-number
+javac 0136-single-number.java
+java 0136-single-number
+
+Adjust the class/file name to match the solution you're running — some files may need to be renamed to match Java's public-class-per-file convention if you copy them out of their folder.
+
+🛠️ How This Repo Is Maintained
+
+New solutions are added as more problems get solved, each with its own folder, Java file, and notes. The topic table above is updated to reflect newly added problems.
