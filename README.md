@@ -39,10 +39,10 @@ This repository is intended to serve as both a **learning record** and a **long-
 
 | Difficulty | Solved |
 | :--------: | :----: |
-|   🟢 Easy  |    5   |
-|  🟡 Medium |    3   |
+|   🟢 Easy  |    8   |
+|  🟡 Medium |    5   |
 |   🔴 Hard  |    0   |
-|  **Total** |  **8** |
+|  **Total** |  **13** |
 
 > **Progress is continuously updated as new problems are solved.**
 
