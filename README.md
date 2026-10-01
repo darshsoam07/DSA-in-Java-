@@ -437,3 +437,11 @@ B.Tech student focused on **Cloud Computing, DevOps, Java, and Software Engineer
 <p align="center">
   <b>Learn → Solve → Analyze → Optimize → Repeat.</b>
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/darshsoam07/DSA-in-Java-/tree/master/1757-recyclable-and-low-fat-products) |
+<!---LeetCode Topics End-->
