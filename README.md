@@ -41,7 +41,7 @@ This repository is intended to serve as both a **learning record** and a **long-
 | :--------: | :----: |
 |   🟢 Easy  |    12  |
 |  🟡 Medium |    9   |
-|   🔴 Hard  |    2   |
+|   🔴 Hard  |    4   |
 |  **Total** |  **23** |
 
 > **Progress is continuously updated as new problems are solved.**
