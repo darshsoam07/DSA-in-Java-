@@ -444,4 +444,16 @@ B.Tech student focused on **Cloud Computing, DevOps, Java, and Software Engineer
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/darshsoam07/DSA-in-Java-/tree/master/1757-recyclable-and-low-fat-products) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
