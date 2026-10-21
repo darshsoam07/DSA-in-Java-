@@ -452,8 +452,13 @@ B.Tech student focused on **Cloud Computing, DevOps, Java, and Software Engineer
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0225-implement-stack-using-queues) |
+| [0707-design-linked-list](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0225-implement-stack-using-queues) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/darshsoam07/DSA-in-Java-/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
